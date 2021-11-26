@@ -1,0 +1,16 @@
+D:\École\Programmation 1\Projet\Tour jork Clean\obj\Debug\net5.0\Tour jork Clean.csproj.AssemblyReference.cache
+D:\École\Programmation 1\Projet\Tour jork Clean\obj\Debug\net5.0\Tour jork Clean.GeneratedMSBuildEditorConfig.editorconfig
+D:\École\Programmation 1\Projet\Tour jork Clean\obj\Debug\net5.0\Tour jork Clean.AssemblyInfoInputs.cache
+D:\École\Programmation 1\Projet\Tour jork Clean\obj\Debug\net5.0\Tour jork Clean.AssemblyInfo.cs
+D:\École\Programmation 1\Projet\Tour jork Clean\obj\Debug\net5.0\Tour jork Clean.csproj.CoreCompileInputs.cache
+D:\École\Programmation 1\Projet\Tour jork Clean\bin\Debug\net5.0\Tour jork Clean.exe
+D:\École\Programmation 1\Projet\Tour jork Clean\bin\Debug\net5.0\Tour jork Clean.deps.json
+D:\École\Programmation 1\Projet\Tour jork Clean\bin\Debug\net5.0\Tour jork Clean.runtimeconfig.json
+D:\École\Programmation 1\Projet\Tour jork Clean\bin\Debug\net5.0\Tour jork Clean.runtimeconfig.dev.json
+D:\École\Programmation 1\Projet\Tour jork Clean\bin\Debug\net5.0\Tour jork Clean.dll
+D:\École\Programmation 1\Projet\Tour jork Clean\bin\Debug\net5.0\ref\Tour jork Clean.dll
+D:\École\Programmation 1\Projet\Tour jork Clean\bin\Debug\net5.0\Tour jork Clean.pdb
+D:\École\Programmation 1\Projet\Tour jork Clean\obj\Debug\net5.0\Tour jork Clean.dll
+D:\École\Programmation 1\Projet\Tour jork Clean\obj\Debug\net5.0\ref\Tour jork Clean.dll
+D:\École\Programmation 1\Projet\Tour jork Clean\obj\Debug\net5.0\Tour jork Clean.pdb
+D:\École\Programmation 1\Projet\Tour jork Clean\obj\Debug\net5.0\Tour jork Clean.genruntimeconfig.cache
